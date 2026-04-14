@@ -112,9 +112,9 @@ Documents should reflect reality, not aspirations. When implementation reveals t
 
 Each session should have a clear goal: "draft the spec," "design the data model," "implement Phase 1 milestone 2." Trying to do everything in one session leads to shallow work across many documents rather than thorough work on one thing. The session log and HANDOFF.md updates at the end of each session make it cheap to pick up exactly where you left off.
 
-### Review the Handoff
+### Keep Docs Up to Date
 
-At the end of each session, read the HANDOFF.md update the agent produces. This is your quality gate -- if the status, next actions, or session summary don't accurately capture what happened, correct them immediately. A sloppy handoff compounds across sessions.
+The agent is instructed to update documents and the handoff package, but in practice it can get absorbed in implementation and forget. Make it a habit to remind the agent to update the docs and HANDOFF.md regularly -- especially after completing a milestone, making a design change, or discovering something that affects the spec. At the end of each session, review what the agent wrote in HANDOFF.md and correct it if the status, next actions, or session summary don't accurately reflect what happened. Docs that fall behind become unreliable, and the next session's agent will act on stale information.
 
 ### Let the Spec Evolve
 
