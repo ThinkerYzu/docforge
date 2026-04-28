@@ -27,7 +27,6 @@ The project is still being initialized. Read `INIT-GUIDE.md` and follow it to co
    - Create a session log in `logs/` (see `logs/SESSION-LOG-TEMPLATE.md` for the format)
    - Update [HANDOFF.md](HANDOFF.md) — current status, phase checklist, next actions, and link to the new session log
    - Keep last 5 session logs in HANDOFF.md; move older ones to HANDOFF-ARCHIVE.md
-   - Run `./scripts/convert_kb.sh` to regenerate HTML
 
 ### Document Hierarchy
 

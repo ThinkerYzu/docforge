@@ -98,7 +98,6 @@ The agent (Claude) must actively maintain both **content and connections** in th
 - **Add cross-references**: When creating new content, link to related existing content
 - **Update navigation**: Add new documents to navigation bars on all pages
 - **Verify links**: Ensure links remain valid as documents evolve
-- **HTML generation**: Run `./scripts/convert_kb.sh` after updating markdown files
 
 ### Handoff as Complete Package
 
